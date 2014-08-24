@@ -16,7 +16,7 @@ Steps to access/Brief description of the Web Application:
 
 (3) Access the Application using the path - http://localhost:8080/topfiveweb/topfivewebvisit
 
-(4) The Application will attempt to re-populate the MySQL database table (topfivewebdb.TOPFIVEWEB) with all the Data found in the data.csv.
+(4) The Application will attempt to clear & re-populate the MySQL database table (topfivewebdb.TOPFIVEWEB) with all the Data found in the data.csv. *NOTE: This behaviour is meant purely for demo purpose.
 
 (5) The Application will then display a list of Top 5 websites ranking based on ALL the websites found in the MySQL database table (topfivewebdb.TOPFIVEWEB).
 
