@@ -1,4 +1,4 @@
-topfiveweb - Status of Assignment
+TopFiveWeb Assignment Project
 =================================
 
 Technologies used:
@@ -21,6 +21,10 @@ Steps to access/Brief description of the Web Application:
 (5) The Application will then display a list of Top 5 websites ranking based on ALL the websites found in the MySQL database table (topfivewebdb.TOPFIVEWEB).
 
 
+
+Assignment Question & Status Report
+===================================
+
 You are given a data (data.csv file) that consists of total visits for each websites based on a weekly dates. 
 Your assignment is to create a web application to render 'Top 5 Websites Rankings' report where:
 
@@ -33,6 +37,7 @@ Your assignment is to create a web application to render 'Top 5 Websites Ranking
 
 
 Improvements for add-on:
+========================
 
 > Integrate current JSP implementation with HTML/CSS and AngularJS
 
