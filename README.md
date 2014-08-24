@@ -22,5 +22,11 @@ Improvements for add-on:
 
 > Complete Date selection search implementation
 
+> Implement script to deploy and setup MySQL DB with required tables for ease of deployment
+
+> Deploy web application over to the Cloud using applications like Heroku or AWS.
+
 > Replace the current MySQL with NoSQL DB app (e.g. MongoDB) for scalability and performance when managing Big Data.
+
+
 
