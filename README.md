@@ -17,9 +17,10 @@ Your assignment is to create a web application to render 'Top 5 Websites Ranking
 
 
 Improvements for add-on:
-1. Integrate current JSP implementation with HTML/CSS and AngularJS
 
-2. Complete Date selection search implementation
+> Integrate current JSP implementation with HTML/CSS and AngularJS
 
-3. Replace the current MySQL with NoSQL DB app (e.g. MongoDB) for scalability and performance when managing Big Data.
+> Complete Date selection search implementation
+
+> Replace the current MySQL with NoSQL DB app (e.g. MongoDB) for scalability and performance when managing Big Data.
 
