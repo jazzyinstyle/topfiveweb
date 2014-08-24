@@ -1,7 +1,7 @@
 package com.andrew.webvisit;
 
-import java.util.Date;
 import java.util.ArrayList;
+import java.util.Date;
 import com.andrew.webvisit.model.WebVisit;
 
 public interface IWebVisit
